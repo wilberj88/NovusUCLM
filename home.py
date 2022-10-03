@@ -5,7 +5,7 @@ import numpy as np
 # SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
 st.set_page_config(layout="wide", page_title="Novus Piloto con UCLM", page_icon="🤖")
 
-st.title('Novus Piloto con UCLM 🤖')
+st.title('Novus Piloto con UCLM-CEEI Talavera 🤖')
 st.header("Transferencia de Conocimiento 🎯")
 
 st.write("Alternativas de trabajo conjunto👋")
