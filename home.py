@@ -19,5 +19,3 @@ Detallamos dos alternativas basadas en análisis de sentimientos:
   VEAMOS 2 EJEMPLOS AHORA 🕰
   """
 )
-
-st.camera_input(label, key=None, help=None, on_change=None, args=None, kwargs=None, disabled=False, label_visibility="visible")
