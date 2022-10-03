@@ -20,4 +20,4 @@ Detallamos dos alternativas basadas en análisis de sentimientos:
   """
 )
 
-st.camera_input(label, key=None, help=None, on_change=None, args=None, kwargs=None, *, disabled=False, label_visibility="visible")
+st.camera_input(label, key=None, help=None, on_change=None, args=None, kwargs=None, disabled=False, label_visibility="visible")
